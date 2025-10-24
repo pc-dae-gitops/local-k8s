@@ -1,0 +1,5 @@
+namespaces:
+  - name: naas
+  - name: rbac-service
+
+

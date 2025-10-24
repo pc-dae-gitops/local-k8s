@@ -1,5 +1,4 @@
 namespaces:
-  - name: naas
-  - name: rbac-service
+  - name: test
 
 
